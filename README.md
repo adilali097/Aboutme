@@ -2,30 +2,17 @@
 <img src="" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">I'm 
-Muhammed Ali, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Muhammed Ali, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
-
 - 🔭 I’m currently working on [Gmail Automation Tool](https://github.com/adilali097/Gmail-automation-tool)  
-  
-
 - 🌱 I’m currently learning Toogle AI and ML ON Kaggle  
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -42,8 +29,6 @@ Muhammed Ali, a full-time full-stack freelance developer 👨‍💻 working rem
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -55,8 +40,6 @@ Muhammed Ali, a full-time full-stack freelance developer 👨‍💻 working rem
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -72,7 +55,6 @@ Muhammed Ali, a full-time full-stack freelance developer 👨‍💻 working rem
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -92,20 +74,17 @@ Muhammed Ali, a full-time full-stack freelance developer 👨‍💻 working rem
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -117,7 +96,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adilali097&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
@@ -125,4 +103,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://about.gitlab.com/" target="_blank">Gitlab</a></div>
